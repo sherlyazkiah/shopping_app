@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+**Lab 5: Building Navigation in Flutter**
+
+![alt text](img\p5.gif)
+
+**Practical Assignment 2**
+
+After modification (add product photos, stock, and ratings)
+
+![alt text](img\assignment.gif)
