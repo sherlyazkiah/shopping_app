@@ -17,10 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 **Lab 5: Building Navigation in Flutter**
 
-![alt text](img\p5.gif)
+![alt text](img/p5.gif)
 
 **Practical Assignment 2**
 
 After modification (add product photos, stock, and ratings)
 
-![alt text](img\assignment.gif)
+![alt text](img/assignment.gif)
